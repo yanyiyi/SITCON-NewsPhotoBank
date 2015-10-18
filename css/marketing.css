@@ -45,7 +45,7 @@ footer .logo {
 }
 
 p img{
-    margin-left: -2em;
+    display: block;
+    margin: auto;
     text-align: center;
-    text-indent: 0px;
 }
