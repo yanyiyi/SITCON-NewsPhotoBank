@@ -17,6 +17,9 @@ p{
 h1,h2,h3,h4{
     margin: 25px 15%;
 }
+h1{
+    border-bottom: 1px #74aa56 dotted;
+}
 footer {
     margin-top: 2em;
     margin-left: 20%;
