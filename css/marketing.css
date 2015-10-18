@@ -5,11 +5,13 @@ html:lang(zh), html:lang(zh-Hant), [lang^="zh"], [lang*="Hant"], [lang="zh-TW"],
 html {
     line-height: 1.7;
     -webkit-font-smoothing: subpixel-antialiased;
+    font-family:sans-serif;
 }
 p{
     text-indent: 2em;
     margin: 20%;
     text-align: justify;
+    font-family:sans-serifㄤ
 }
 footer {
     margin-top: -1em;
