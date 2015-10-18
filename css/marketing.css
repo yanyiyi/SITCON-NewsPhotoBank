@@ -44,3 +44,7 @@ footer .logo {
     float: right;
 }
 
+p img{
+    margin-left: -2em;
+    text-align: center;
+}
