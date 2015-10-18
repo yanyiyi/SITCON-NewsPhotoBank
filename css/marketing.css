@@ -11,7 +11,10 @@ p{
     text-indent: 2em;
     margin: 20%;
     text-align: justify;
-    font-family:sans-serifㄤ
+    font-family:sans-serif;
+}
+
+h1,h2,h3,h4{margin: 20%;
 }
 footer {
     margin-top: -1em;
