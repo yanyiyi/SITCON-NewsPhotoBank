@@ -1,0 +1,22 @@
+html:lang(zh), html:lang(zh-Hant), [lang^="zh"], [lang*="Hant"], [lang="zh-TW"], [lang="zh-HK"], article strong:lang(zh), article strong:lang(zh-Hant) {
+    font-family: "Source Han Sans TC", "Biaodian Pro Sans CNS", "Helvetica Neue", Helvetica, Arial, "Zhuyin Heiti", "Han Heiti", sans-serif;
+}
+
+footer {
+    margin-top: -1em;
+    padding: 1em 2em 2em;
+    position: relative;
+    text-align: right;
+}
+
+footer .logo {
+    display: inline-block;
+    width: 6em;
+    height: 2em;
+    text-indent: -200000px;
+    text-align: left;
+    overflow: hidden;
+    background: url("./SITCON-colored.svg") center no-repeat;
+    background-size: contain;
+    display: block;
+}
