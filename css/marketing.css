@@ -2,9 +2,20 @@ html:lang(zh), html:lang(zh-Hant), [lang^="zh"], [lang*="Hant"], [lang="zh-TW"],
     font-family: "Source Han Sans TC", "Biaodian Pro Sans CNS", "Helvetica Neue", Helvetica, Arial, "Zhuyin Heiti", "Han Heiti", sans-serif;
 }
 
+html {
+    line-height: 1.7;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+p{
+    text-indent: 2em;
+    margin: 20%;
+    text-align: justify;
+}
 footer {
     margin-top: -1em;
-    padding: 1em 2em 2em;
+    margin-left: 20%;
+    margin-right: 20%;
+/*    padding: 1em 2em 2em;*/
     position: relative;
     text-align: right;
 }
@@ -21,3 +32,4 @@ footer .logo {
     display: block;
     float: right;
 }
+
