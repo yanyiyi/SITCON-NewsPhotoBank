@@ -19,4 +19,5 @@ footer .logo {
     background: url("./SITCON-colored.svg") center no-repeat;
     background-size: contain;
     display: block;
+    float: right;
 }
